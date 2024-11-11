@@ -1,5 +1,8 @@
-# EX: 06 - Linux-IPC-Shared-memory
-Ex06-Linux IPC-Shared-memory
+## EX: 06 - Linux-IPC-Shared-memory
+### Name: HENRIPRASATH S
+### Register No: 212223230077
+### Date:
+
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
